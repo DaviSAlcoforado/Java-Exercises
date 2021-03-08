@@ -1,0 +1,2 @@
+# Questão 1
+A Classe hipotética school.cesar.Log permite salvar mensagens de Log de um sistema, por manipular um arquivo é desejável que a classe não seja instanciada mais do que uma vez. Faça as mudanças necessárias na classe para que ela implemente o padrão de projeto Singleton visto em sala de aula e consequentemente não permita que exista mais de uma instância dela por JVM.

@@ -1,0 +1,2 @@
+Cada diretório (de ex1 a ex4) contem uma questão que deve ser resolvida. Ao final da avaliação, crie um arquivo zip contendo suas respostas nomeado com suas iniciais e submeta através do classroom.
+Responda as questões dissertativas com suas próprias palavras, não serão aceitas cópias de quaisquer fontes.
